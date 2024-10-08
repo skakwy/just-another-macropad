@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BackupProjects_nils_0805_personal_0_20241008")(type "KiCad")(uri "$(KIPRJMOD)/BackupProjects_nils_0805_personal_0_20241008.pretty")(options "")(descr ""))
+)
